@@ -22,4 +22,4 @@ CSS3
 
 Vanilla JavaScript
 
-Currency API: https://latest.currency-api.pages.dev
+Currency API: https://latest.currency-api.pages.dev/v1/currencies/eur.json
